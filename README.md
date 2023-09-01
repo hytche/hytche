@@ -1,4 +1,6 @@
-### Hi there, I'm Hamza 👋
+### Hi there! I'm Hamza 👋
+
+### 👨🏽‍💻 About me:
 
 I'm a passionate software developer who loves turning ideas into code and creating digital solutions. Here's a bit more about me:
 
@@ -6,7 +8,7 @@ I'm a passionate software developer who loves turning ideas into code and creati
 - 🔭 I'm always eager to learn and explore new technologies and frameworks.
 - 📚 I enjoy sharing my knowledge with the developer community through blogging and tutorials.
 
-### Hobbies 🎮📷🌟
+### 🎮📷🌟 Hobbies:
 
 When I'm not coding, you can find me:
 
@@ -14,7 +16,7 @@ When I'm not coding, you can find me:
 - 📷 Photography: Capturing moments and landscapes is my way of relaxing and being creative.
 - 🌟 Exploring: Whether it's hiking, traveling, or trying new cuisines, I love exploring the world.
 
-### Socials 🌐
+### 🌐 Socials: 
 
 Connect with me on social media:
 
@@ -22,7 +24,7 @@ Connect with me on social media:
 
 
 
-### Current Tech Stack 💻
+### 💻 Tech Stack 
 
 Here are some of the technologies and tools I'm currently working with:
 
