@@ -1,5 +1,5 @@
 ### Hi there! I'm Hamza 👋
-
+ ---
 ### 👨🏽‍💻 About me:
 
 I'm a passionate software developer who loves turning ideas into code and creating digital solutions. Here's a bit more about me:
@@ -7,7 +7,7 @@ I'm a passionate software developer who loves turning ideas into code and creati
 - 🌱 I'm currently working on algorithm visualiser.
 - 🔭 I'm always eager to learn and explore new technologies and frameworks.
 - 📚 I enjoy sharing my knowledge with the developer community through blogging and tutorials.
-
+ ---
 ### 🎮📷🌟 Hobbies:
 
 When I'm not coding, you can find me:
@@ -16,12 +16,15 @@ When I'm not coding, you can find me:
 - 📷 Photography: Capturing moments and landscapes is my way of relaxing and being creative.
 - 🌟 Exploring: Whether it's hiking, traveling, or trying new cuisines, I love exploring the world.
 
-### 🌐 Socials: 
-
-Connect with me on social media:
-
-[![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/muhammadmehmood-/)
-
+ ---
+​
+# �� Socials:
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmuhammadmehmood@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmehmood-/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hytchee)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/hytche) 
+​
+---
 
 
 ### 💻 Tech Stack 
